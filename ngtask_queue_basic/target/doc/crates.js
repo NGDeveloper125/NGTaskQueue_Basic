@@ -1,0 +1,1 @@
+window.ALL_CRATES = ["ngtask_queue_basic"];

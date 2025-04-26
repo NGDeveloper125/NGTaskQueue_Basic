@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"ngtask_queue_basic":[["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.81.0/core/marker/trait.Freeze.html\" title=\"trait core::marker::Freeze\">Freeze</a> for <a class=\"struct\" href=\"ngtask_queue_basic/struct.TaskQueue.html\" title=\"struct ngtask_queue_basic::TaskQueue\">TaskQueue</a>",1,["ngtask_queue_basic::TaskQueue"]]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
