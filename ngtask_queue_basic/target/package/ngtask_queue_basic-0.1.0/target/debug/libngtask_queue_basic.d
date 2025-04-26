@@ -1,0 +1,1 @@
+/home/ngdeveloper/NGTaskQueue_Basic/ngtask_queue_basic/target/package/ngtask_queue_basic-0.1.0/target/debug/libngtask_queue_basic.rlib: /home/ngdeveloper/NGTaskQueue_Basic/ngtask_queue_basic/target/package/ngtask_queue_basic-0.1.0/src/lib.rs
